@@ -1,0 +1,1 @@
+json-server --watch perguntas.json --port 3001

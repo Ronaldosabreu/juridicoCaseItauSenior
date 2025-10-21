@@ -1,0 +1,120 @@
+## Build e dependências
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+artifacts/
+**/launchSettings.json
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider / JetBrains
+.idea/
+*.sln.iml
+
+## VS Code
+.vscode/
+.history/
+*.code-workspace
+
+## Arquivos temporários e cache
+*.tmp
+*.temp
+*.log
+*.vspscc
+*.vssscc
+*.cache
+*.pdb
+*.mdb
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+
+## Configurações de usuário
+*.userprefs
+*.rsuser
+*.sln.docstates
+
+## Testes e Cobertura
+TestResults/
+*.coverage
+*.coveragexml
+*.trx
+coverage*.json
+coverage*.xml
+.nunit/
+BenchmarkDotNet.Artifacts/
+
+## Pacotes
+*.nupkg
+*.snupkg
+*.nuspec
+*.psess
+*.vsp
+*.vspx
+*.pidb
+*.svclog
+*.scc
+
+## Arquivos do NuGet
+.nuget/
+packages/
+*.ncrunch*
+project.lock.json
+project.fragment.lock.json
+
+## Build output
+*.dll
+*.exe
+*.appx
+*.appxbundle
+*.appxupload
+*.msix
+*.msixbundle
+*.msixupload
+
+## Logs e diagnósticos
+*.tlog
+*.log
+*.wrn
+*.err
+
+## Configurações locais
+appsettings.Development.json
+appsettings.Local.json
+appsettings.*.json
+
+## Dados sensíveis
+*.pfx
+*.key
+*.cer
+*.pem
+*.crt
+secrets.json
+.env
+.env.*
+
+## Docker
+docker-compose.override.yml
+**/Dockerfile.development
+
+## Outros
+_ReSharper*/
+*.DotSettings.user
+*.db
+*.bak
+*.orig
+
+## Sistema operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+*.swp
+*.swo

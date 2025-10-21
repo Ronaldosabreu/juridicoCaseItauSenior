@@ -1,0 +1,49 @@
+{
+    "perguntas": [
+      {
+        "id": "1",
+        "descricao": "Como você lida com a pressão por resultados dentro da equipe?",
+        "cargo": "Gerente"
+      },
+      {
+        "id": "2",
+        "descricao": "Quais estratégias você utiliza para manter a equipe motivada?",
+        "cargo": "Gerente"
+      },
+      {
+        "id": "3",
+        "descricao": "Como você age quando há conflito entre membros da equipe?",
+        "cargo": "Gerente"
+      },
+      {
+        "id": "4",
+        "descricao": "Explique como você lida com exceções e logs em um ambiente de produção.",
+        "cargo": "Desenvolvedor"
+      },
+      {
+        "id": "5",
+        "descricao": "Qual é a importância dos testes unitários no seu processo de desenvolvimento?",
+        "cargo": "Desenvolvedor"
+      },
+      {
+        "id": "6",
+        "descricao": "Como você organiza seu código para facilitar manutenção e escalabilidade?",
+        "cargo": "Desenvolvedor"
+      },
+      {
+        "id": "7",
+        "descricao": "Como você define critérios de aceitação para validar uma funcionalidade?",
+        "cargo": "QA"
+      },
+      {
+        "id": "8",
+        "descricao": "O que você faz quando encontra um bug crítico próximo da entrega?",
+        "cargo": "QA"
+      },
+      {
+        "id": "9",
+        "descricao": "Quais tipos de testes você considera essenciais antes da liberação?",
+        "cargo": "QA"
+      }
+    ]
+  }

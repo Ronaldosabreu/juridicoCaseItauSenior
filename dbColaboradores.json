@@ -1,0 +1,82 @@
+{
+  "reclamantes": [
+    {
+      "nome": "Ronaldo Abreu",
+      "cpf": "33433417890",
+      "racf": "rabreu",
+      "email": "ronaldo.abreu@empresa.com",
+      "cargo": "Desenvolvedor .NET Sênior",
+      "status": "ativo",
+      "colaboradores": [
+        {
+          "nome": "Joice Souza",
+          "cpf": "98765432100",
+          "racf": "jsouza",
+          "email": "joice.souza@empresa.com",
+          "cargo": "Analista de QA",
+          "status": "ativo"
+        },
+        {
+          "nome": "Beatriz Lima",
+          "cpf": "55566677788",
+          "racf": "blima",
+          "email": "beatriz.lima@empresa.com",
+          "cargo": "UX Designer",
+          "status": "ativo"
+        }
+      ]
+    },
+    {
+      "nome": "Carlos Andrade",
+      "cpf": "11223344556",
+      "racf": "candrade",
+      "email": "carlos.andrade@empresa.com",
+      "cargo": "Gerente de Projetos",
+      "status": "ativo",
+      "colaboradores": [
+        {
+          "nome": "Fernanda Costa",
+          "cpf": "22334455667",
+          "racf": "fcosta",
+          "email": "fernanda.costa@empresa.com",
+          "cargo": "Scrum Master",
+          "status": "ativo"
+        },
+        {
+          "nome": "Diego Santos",
+          "cpf": "33445566778",
+          "racf": "dsantos",
+          "email": "diego.santos@empresa.com",
+          "cargo": "Product Owner",
+          "status": "ativo"
+        }
+      ]
+    },
+    {
+      "nome": "Juliana Ribeiro",
+      "cpf": "44556677889",
+      "racf": "jribeiro",
+      "email": "juliana.ribeiro@empresa.com",
+      "cargo": "Coordenadora de TI",
+      "status": "ativo",
+      "colaboradores": [
+        {
+          "nome": "Ricardo Mello",
+          "cpf": "55667788990",
+          "racf": "rmello",
+          "email": "ricardo.mello@empresa.com",
+          "cargo": "DevOps Engineer",
+          "status": "ativo"
+        },
+        {
+          "nome": "Patrícia Gomes",
+          "cpf": "66778899001",
+          "racf": "pgomes",
+          "email": "patricia.gomes@empresa.com",
+          "cargo": "Desenvolvedora Front-End",
+          "status": "ativo"
+        }
+      ]
+    }
+  ]
+}
